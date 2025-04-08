@@ -27,15 +27,6 @@
 
 ---
 
-### 🖼️ Demo
-
-![Working Handi-Bot](media/handi_bot_photo_1.jpg)  
-> Real-time hand tracking & servo movement
-
-🎥 [Watch Demo Video](https://your-link-here.com) (optional)
-
----
-
 ### 🧠 How It Works
 
 1. **MediaPipe** detects your hand landmarks from a webcam
